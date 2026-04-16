@@ -5,9 +5,15 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=4733
 
 // 1. Escribe un comentario en una línea
 
+// hola mundo
+
 // 2. Escribe un comentario en varias líneas
 
+/* hola
+mundo */
+
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
+
 
 // 4. Imprime por consola el valor de todas las variables
 
